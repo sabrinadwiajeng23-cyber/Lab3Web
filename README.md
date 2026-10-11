@@ -33,7 +33,12 @@ CSS external menggunakan:
 - ID selector: `#intro`, `#intro h1`
 - Class selector: `.button`, `.btn-primary`
 ### 6. Bukti Praktikum
+Codingan dan hasil dari html
+<img width="1535" height="813" alt="HTML lab3web" src="https://github.com/user-attachments/assets/df0f96d0-ef64-4c03-957f-9409340afb23" />
+<img width="567" height="142" alt="Hasil dari html lab3web" src="https://github.com/user-attachments/assets/eec4dd95-c8d0-4d55-9d2b-84867f85108d" />
+Codingan dan hasil dari css
 <img width="1533" height="811" alt="css" src="https://github.com/user-attachments/assets/f3c73ce2-37e9-421a-92fb-57004a6253e2" />
+<img width="527" height="146" alt="Hasil dari css" src="https://github.com/user-attachments/assets/649fd2a5-bee9-4bfc-a73c-df5592efe7b3" />
 
 
 ## Jawaban Pertanyaan
