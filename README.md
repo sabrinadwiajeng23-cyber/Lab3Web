@@ -32,6 +32,9 @@ CSS external menggunakan:
 - Element selector: `nav`, `nav a`
 - ID selector: `#intro`, `#intro h1`
 - Class selector: `.button`, `.btn-primary`
+### 6. Bukti Praktikum
+<img width="1533" height="811" alt="css" src="https://github.com/user-attachments/assets/f3c73ce2-37e9-421a-92fb-57004a6253e2" />
+
 
 ## Jawaban Pertanyaan
 
